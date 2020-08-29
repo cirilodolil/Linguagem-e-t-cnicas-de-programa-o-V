@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTP5", "LTP5\LTP5.csproj", "{A7320BFF-D0F4-4139-8FFB-0C40915B5487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7320BFF-D0F4-4139-8FFB-0C40915B5487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7320BFF-D0F4-4139-8FFB-0C40915B5487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7320BFF-D0F4-4139-8FFB-0C40915B5487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7320BFF-D0F4-4139-8FFB-0C40915B5487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E29BAA-2D47-4990-BD3F-C21FF20F253B}
+	EndGlobalSection
+EndGlobal
